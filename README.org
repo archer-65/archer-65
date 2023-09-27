@@ -5,7 +5,7 @@
   <span style="white-space: pre-wrap">  
     I'm interested in FOSS, CI/CD, and IT Automation through the <b>Everything as Code</b> approach. <br>
   
-    I'm about to graduate as a Bachelor of Computer Science at <a href="https://www.unina.it">Università degli Studi di Napoli Federico II</a>. <br>
+    I'm graduated as a Bachelor of Computer Science at <a href="https://www.unina.it">Università degli Studi di Napoli Federico II</a>. <br>
     I'm currently working as Cloud Administrator and DevOps Engineer at <a href="https://www.bit4id.com/en">Bit4id</a>. <br>
   
     In the next section you can find the tools I use and the ones I'm learning 😃. <br> <br>
